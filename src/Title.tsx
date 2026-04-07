@@ -5,6 +5,7 @@ interface TitleProps {
 
 const Title = ({ text, color }: TitleProps) => {
   return <h2 style={{ color }}>{text}</h2>;
+
 };
 
 export default Title;
