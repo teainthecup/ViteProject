@@ -22,6 +22,8 @@ export function UserCard({ user }: UserCardProps) {
             ? 'ano'
             : 'ne'}
       </p>
+
+      <p>Ahoj</p>
     </div>
   );
 }
